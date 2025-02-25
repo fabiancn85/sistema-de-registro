@@ -4,4 +4,4 @@
 
 para ejecutar el sistema, debes poner:
 
-```XD install react```
+```UwU install react```
